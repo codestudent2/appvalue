@@ -1,2 +1,7 @@
 Version 3
+<<<<<<< HEAD
 Main Change
+
+Feature 1
+Feature 2
+>>>>>>> feature
